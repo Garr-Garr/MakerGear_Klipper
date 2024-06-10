@@ -1,5 +1,16 @@
 # MakerGear Klipper Testing
 
+## Working configuration files:
+
+U1 Rev.0
+
+U1 Rev.1
+
+M3-ID Rev.1
+
+M3-SE Rev.1
+
+M2 Rev.G+
 
 ### Using Mainsail OS v1.3.2 (instead of OctoPi):
 Repo Link: https://github.com/mainsail-crew/MainsailOS
